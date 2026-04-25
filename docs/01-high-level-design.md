@@ -3,7 +3,7 @@
 **Project:** CivicLink — Citizen Requests & Complaints Platform
 **Workshop:** Lean (post agile) Planning and Budgeting Strategies
 **Course:** Enterprise Architectures — ECI
-**Authors:** Andersson D. Sánchez M., Cristian S. Pedraza R., Jeisson D. Sánchez G.
+**Authors:** Andersson D. Sánchez M., Cristian S. Pedraza R., Raquel I. Selma A.
 
 ---
 

@@ -53,8 +53,6 @@ This repository contains the **design, lean estimation, and budget** for CivicLi
 | Workshop | Lean (post agile) Planning and Budgeting Strategies |
 | Institution | Escuela Colombiana de Ingeniería Julio Garavito (ECI) |
 | Team Size | 3 |
-| Opens | Tuesday, April 21 2026 — 08:19 |
-| Closes | Monday, April 27 2026 — 23:59 |
 | Method | Scrum + Story Points + Velocity-based budgeting |
 
 **Goal.** Simulate the design and decision-making challenges faced by enterprise architects in **public-sector digital transformation**: a municipal platform for citizen requests and complaints, scalable, modular, and integrable with existing public IT infrastructure.
@@ -469,14 +467,7 @@ The full register is in the budget document. Most material:
 |---|---|---|
 | Member — Architecture & DevOps lead | Andersson David Sánchez Méndez | [AnderssonProgramming](https://github.com/AnderssonProgramming) |
 | Member — Backend & Microservices | Cristian Santiago Pedraza Rodríguez | [cris-eci](https://github.com/cris-eci) |
-| Member — ML / Mobile / Observability | Jeisson David Sánchez Gómez | [JeissonS02](https://github.com/JeissonS02) |
-
-| Field | Value |
-|---|---|
-| Course | Enterprise Architectures |
-| Institution | Escuela Colombiana de Ingeniería Julio Garavito |
-| Workshop | Lean (post agile) Planning and Budgeting Strategies |
-| Due Date | Monday, April 27 2026 — 23:59 |
+| Member — ML / Mobile / Observability | Raquel Iveth Selma Ayala | [RaquelSAyala](https://github.com/RaquelSAyala) |
 
 ---
 
