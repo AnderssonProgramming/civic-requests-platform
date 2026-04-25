@@ -38,10 +38,11 @@ This repository contains the **design, lean estimation, and budget** for CivicLi
 7. [Product Backlog Summary](#product-backlog-summary)
 8. [Sprint Plan](#sprint-plan)
 9. [Development Budget Summary](#development-budget-summary)
-10. [Deliverables](#deliverables)
-11. [Workshop Compliance Matrix](#workshop-compliance-matrix)
-12. [Risks and Assumptions](#risks-and-assumptions)
-13. [Team and Credits](#team-and-credits)
+10. [Workshop PDF](#workshop-pdf)
+11. [Deliverables](#deliverables)
+12. [Workshop Compliance Matrix](#workshop-compliance-matrix)
+13. [Risks and Assumptions](#risks-and-assumptions)
+14. [Team and Credits](#team-and-credits)
 
 ---
 
@@ -408,6 +409,14 @@ pie title Cost breakdown by role (labor only)
     "Project Manager" : 9600
     "UX/UI Designer" : 7000
 ```
+
+---
+
+## Workshop PDF
+
+Open the full compiled workshop document here:
+
+- [CivicLink Workshop PDF](docs/civiclink-workshop.pdf)
 
 ---
 
