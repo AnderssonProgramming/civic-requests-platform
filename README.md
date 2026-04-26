@@ -420,6 +420,14 @@ Open the full compiled workshop document here:
 
 ---
 
+## Workshop Excel
+
+Open the full budget model workshop document here:
+
+- [CivicLink Budget Model Excel](docs/CivicLink_Budget_Model.xlsx)
+
+---
+
 ## Deliverables
 
 | # | Deliverable | File | Status |
